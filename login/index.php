@@ -49,7 +49,7 @@ if(isset($_POST['email']) || isset($_POST['senha'])) {
 <body>
     <div class="main-login">
         <div class="login-esquerda"> 
-            <h1>De login na sua conta<br>para ter acesso ao blog</h1>
+            <h1>Faça login na sua conta<br>para ter acesso a plataforma</h1>
             <img src="blog_imagem.svg" class="imagem-login" alt="blog">
         </div>
     <form action="" method="POST">
